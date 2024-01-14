@@ -1,5 +1,0 @@
-create an application that alters a person's voice in real-time during phone calls to protect them from voice cloning and unauthorized recording. Specifically, the app was intended to modify the voice in such a way that it sounds normal to humans but different to computers. This modification would prevent voice-protected services (like banks and cell phone providers) from being tricked by recordings made by scammers.
-
-Test vocals with https://github.com/kaldi-asr/kaldi
-
-Convert voices with https://github.com/DenisStad/Voice-Conversion
